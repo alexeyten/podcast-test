@@ -148,7 +148,7 @@
       <itunes:duration>01:16:38</itunes:duration>
       <itunes:author>Юля Миоцен, Вадим Макеев</itunes:author>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:summary><![CDATA[Это очень короткое summary]></itunes:summary>
+      <itunes:summary><![CDATA[Это очень короткое summary]]></itunes:summary>
       <itunes:image href="https://web-standards.ru/podcast/cover.png"/>
     </item>
   </channel>

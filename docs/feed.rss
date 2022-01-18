@@ -9,11 +9,11 @@
     <atom:link href="https://alexeyten.github.io/podcast/feed.rss" rel="self" type="application/rss+xml"/>
     <itunes:subtitle>Новости фронтенда за неделю</itunes:subtitle>
     <itunes:type>episodic</itunes:type>
-    <itunes:author>Lynn Кофеман, Ольга Алексашенко</itunes:author>
+    <itunes:author>Ольга Алексашенко, Никита Дубко, Вадим Макеев, Андрей Мелихов, Юля Миоцен, Мария Просвирнина, Алексей Симоненко</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
-      <itunes:name>Lynn Кофеман</itunes:name>
-      <itunes:email>alexeyten+rss@yandex.ru</itunes:email>
+      <itunes:name>Веб-стандарты</itunes:name>
+      <itunes:email>wst@web-standards.ru</itunes:email>
     </itunes:owner>
     <itunes:image href="https://alexeyten.github.io/podcast/cover.png"/>
     <itunes:category text="Technology">
@@ -22,16 +22,133 @@
     <item>
       <title>Выпуск 317. Тестовый</title>
       <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
-      <description><![CDATA[<h2>Ведущие:</h2>
-          <ul><li>Привет, Никита!</li><li>Андрей Мелихов</li><li>Юля Миоцен</li><li>Вадим Макеев</li></ul><h2>Темы</h2><ul><li>00:01:04 События</li><li>00:02:35 Firefox 96</li><li>00:12:31 Лисичка, не кашляй</li><li>00:18:16 State of JS</li><li>00:22:08 Утечка из опроса</li><li>00:27:12 Вариативные шрифты и Figma</li><li>00:35:37 CSS Tools</li><li>00:42:40 Топ CodePen</li><li>00:50:45 CSS-парсер на Rust</li><li>00:57:02 Eleventy 1.0</li><li>01:07:31 Metho?</li></ul><p><a href="https://codepen.io/miocene/full/ed97acb82ea44d93bf13a68371c74bbe">Обложка выпуска на чистом CSS</a></p><h2>События</h2><ul><li><a href="https://facebook.com/events/4783636631715537">Конференция по цифровой доступности онлайн 18 января—8 февраля</a></li><li><a href="https://kurmakinfo.timepad.ru/event/1899021/">18 января: Доступные фичи и где они обитают, Татьяна Фокина</a></li><li><a href="https://minskcss.timepad.ru/event/1881868/">MinskCSS Meetup онлайн 26 января</a></li></ul><h2>Firefox 96</h2><ul><li><a href="https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/96">Firefox 96</a></li><li><a href="https://tanalin.com/blog/2022/01/firefox-96/">Марат Таналин</a></li></ul><h2>Лисичка, не кашляй</h2><ul><li><a href="https://twitter.com/FirefoxSupport/status/1481592266141716482">Firefox has witnessed outages recently</a></li><li><a href="https://twitter.com/FirefoxSupport/status/1481918504203091969">Yesterday, Firefox became unresponsive</a></li></ul><h2>State of JS</h2><ul><li><a href="https://app.stateofjs.com/survey/state-of-js/2021">State of JS 2021</a></li></ul><h2>Утечка из опроса</h2><ul><li><a href="https://dev.to/sachagreif/disclosing-a-state-of-javascriptstate-of-css-data-breach-2lg1">Disclosing a State of JavaScript/State of CSS Data Leak</a></li></ul><h2>Вариативные шрифты и Figma</h2><ul><li><a href="https://twitter.com/nima_owji/status/1479815195979665411">Figma is adding the support of variable fonts!</a></li><li><a href="https://forum.figma.com/t/add-support-for-variable-fonts/325">Add Support for Variable Fonts</a></li></ul><h2>CSS Tools</h2><ul><li><a href="https://twitter.com/css_tools_/status/1481169865763397633">CSS Tools</a></li><li><a href="https://cssdb.org/">CSS DB</a></li><li><a href="https://preset-env.netlify.app">PostCSS Preset Env</a></li><li><a href="https://github.com/csstools/postcss-plugins/discussions/162">How we migrated postcss-preset-env to a mono repo</a></li></ul><h2>Топ CodePen</h2><ul><li><a href="https://codepen.io/2021/popular/pens/">Top-100 most hearted on CodePen 2021</a></li></ul><h2>CSS-парсер на Rust</h2><ul><li><a href="https://parceljs.org/blog/parcel-css/">Announcing Parcel CSS</a></li></ul><h2>Eleventy 1.0</h2><ul><li><a href="https://github.com/11ty/eleventy/releases/tag/v1.0.0">Eleventy v1.0.0</a></li></ul><h2>Metho?</h2><ul><li><a href="https://dev.to/jonrandy/introducing-metho-safely-adding-superpowers-to-js-1lj">Introducing Metho: Safely adding superpowers to JS</a></li></ul><p>Слушайте свежие эпизоды в <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8">Google Podcasts</a>, <a href="https://podcasts.apple.com/podcast/id1080500016">Apple Podcasts</a>, <a href="https://castbox.fm/channel/id1177814">CastBox</a>, <a href="https://pca.st/moFp">Pocket Casts</a>, <a href="https://overcast.fm/itunes1080500016">Overcast</a>, <a href="https://vk.com/podcasts-32017543">ВКонтакте</a>, <a href="https://music.yandex.ru/album/6245956">Яндекс.Музыке</a>, <a href="https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV">Spotify</a>, <a href="https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go">YouTube</a>, <a href="https://soundcloud.com/web-standards">SoundCloud</a> или подписывайтесь на <a href="https://web-standards.ru/podcast/feed/">RSS</a>.</p><p>Читайте новости в <a href="https://twitter.com/webstandards_ru">Твиттере</a>, <a href="https://vk.com/webstandards_ru">ВКонтакте</a>, <a href="https://www.facebook.com/webstandardsru">Фейсбуке</a>, <a href="https://t.me/webstandards_ru">Телеграме</a>.</p><p>Поддержите нас на <a href="https://www.patreon.com/webstandards_ru">Патреоне</a> или переводом на <a href="https://www.paypal.me/pepelsbey">PayPal</a>.</p><p><a href="https://t.me/webstandards_chat">Обсуждайте в чате</a>.</p>]]></description>
+      <description><![CDATA[<h2>Ведущие →</h2>
+<ul>
+    <li>Привет, Никита!</li>
+    <li>Андрей Мелихов</li>
+    <li>Юля Миоцен</li>
+    <li>Вадим Макеев</li>
+</ul>
+<h2>Темы</h2>
+<ul>
+    <li>00:01:04 События</li>
+    <li>00:02:35 Firefox 96</li>
+    <li>00:12:31 Лисичка, не кашляй</li>
+<li>00:18:16 State of JS</li>
+<li>00:22:08 Утечка из опроса</li>
+<li>00:27:12 Вариативные шрифты и Figma</li>
+<li>00:35:37 CSS Tools</li>
+<li>00:42:40 Топ CodePen</li>
+<li>00:50:45 CSS-парсер на Rust</li>
+<li>00:57:02 Eleventy 1.0</li>
+<li>01:07:31 Metho?</li>
+</ul>
+<p>
+<a href="https://codepen.io/miocene/full/ed97acb82ea44d93bf13a68371c74bbe">Обложка выпуска на чистом CSS</a>
+</p>
+<h2>События</h2>
+<ul>
+<li>
+<a href="https://facebook.com/events/4783636631715537">Конференция по цифровой доступности онлайн 18 января—8 февраля</a>
+</li>
+<li>
+<a href="https://kurmakinfo.timepad.ru/event/1899021/">18 января: Доступные фичи и где они обитают, Татьяна Фокина</a>
+</li>
+<li>
+<a href="https://minskcss.timepad.ru/event/1881868/">MinskCSS Meetup онлайн 26 января</a>
+</li>
+</ul>
+<h2>Firefox 96</h2>
+<ul>
+<li>
+<a href="https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/96">Firefox 96</a>
+</li>
+<li>
+<a href="https://tanalin.com/blog/2022/01/firefox-96/">Марат Таналин</a>
+</li>
+</ul>
+<h2>Лисичка, не кашляй</h2>
+<ul>
+<li>
+<a href="https://twitter.com/FirefoxSupport/status/1481592266141716482">Firefox has witnessed outages recently</a>
+</li>
+<li>
+<a href="https://twitter.com/FirefoxSupport/status/1481918504203091969">Yesterday, Firefox became unresponsive</a>
+</li>
+</ul>
+<h2>State of JS</h2>
+<ul>
+<li>
+<a href="https://app.stateofjs.com/survey/state-of-js/2021">State of JS 2021</a>
+</li>
+</ul>
+<h2>Утечка из опроса</h2>
+<ul>
+<li>
+<a href="https://dev.to/sachagreif/disclosing-a-state-of-javascriptstate-of-css-data-breach-2lg1">Disclosing a State of JavaScript/State of CSS Data Leak</a>
+</li>
+</ul>
+<h2>Вариативные шрифты и Figma</h2>
+<ul>
+<li>
+<a href="https://twitter.com/nima_owji/status/1479815195979665411">Figma is adding the support of variable fonts!</a>
+</li>
+<li>
+<a href="https://forum.figma.com/t/add-support-for-variable-fonts/325">Add Support for Variable Fonts</a>
+</li>
+</ul>
+<h2>CSS Tools</h2>
+<ul>
+<li>
+<a href="https://twitter.com/css_tools_/status/1481169865763397633">CSS Tools</a>
+</li>
+<li>
+<a href="https://cssdb.org/">CSS DB</a>
+</li>
+<li>
+<a href="https://preset-env.netlify.app">PostCSS Preset Env</a>
+</li>
+<li>
+<a href="https://github.com/csstools/postcss-plugins/discussions/162">How we migrated postcss-preset-env to a mono repo</a>
+</li>
+</ul>
+<h2>Топ CodePen</h2>
+<ul>
+<li>
+<a href="https://codepen.io/2021/popular/pens/">Top-100 most hearted on CodePen 2021</a>
+</li>
+</ul>
+<h2>CSS-парсер на Rust</h2>
+<ul>
+<li>
+<a href="https://parceljs.org/blog/parcel-css/">Announcing Parcel CSS</a>
+</li>
+</ul>
+<h2>Eleventy 1.0</h2>
+<ul>
+<li>
+<a href="https://github.com/11ty/eleventy/releases/tag/v1.0.0">Eleventy v1.0.0</a>
+</li>
+</ul>
+<h2>Metho?</h2>
+<ul>
+<li>
+<a href="https://dev.to/jonrandy/introducing-metho-safely-adding-superpowers-to-js-1lj">Introducing Metho: Safely adding superpowers to JS</a>
+</li>
+</ul>
+<p>Слушайте свежие эпизоды в <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8">Google Podcasts</a>, <a href="https://podcasts.apple.com/podcast/id1080500016">Apple Podcasts</a>, <a href="https://castbox.fm/channel/id1177814">CastBox</a>, <a href="https://pca.st/moFp">Pocket Casts</a>, <a href="https://overcast.fm/itunes1080500016">Overcast</a>, <a href="https://vk.com/podcasts-32017543">ВКонтакте</a>, <a href="https://music.yandex.ru/album/6245956">Яндекс.Музыке</a>, <a href="https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV">Spotify</a>, <a href="https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go">YouTube</a>, <a href="https://soundcloud.com/web-standards">SoundCloud</a> или подписывайтесь на <a href="https://web-standards.ru/podcast/feed/">RSS</a>.</p>
+<p>Читайте новости в <a href="https://twitter.com/webstandards_ru">Твиттере</a>, <a href="https://vk.com/webstandards_ru">ВКонтакте</a>, <a href="https://www.facebook.com/webstandardsru">Фейсбуке</a>, <a href="https://t.me/webstandards_ru">Телеграме</a>.</p>
+<p>Поддержите нас на <a href="https://www.patreon.com/webstandards_ru">Патреоне</a> или переводом на <a href="https://www.paypal.me/pepelsbey">PayPal</a>.</p>
+<p>
+<a href="https://t.me/webstandards_chat">Обсуждайте в чате</a>.</p>]]>
+</description>
       <guid isPermaLink="true">https://web-standards.ru/podcast/episodes/317.mp3</guid>
       <enclosure type="audio/mpeg" url="https://web-standards.ru/podcast/episodes/317.mp3" length="36806762"/>
       <itunes:episode>317</itunes:episode>
       <itunes:duration>01:16:38</itunes:duration>
       <itunes:author>Юля Миоцен, Вадим Макеев</itunes:author>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:summary><![CDATA[<h2>Ведущие!!!</h2>
-          <ul><li>Это summary</li><li>Андрей Мелихов</li><li>Юля Миоцен</li><li>Вадим Макеев</li></ul><h2>Темы</h2><ul><li>00:01:04 События</li><li>00:02:35 Firefox 96</li><li>00:12:31 Лисичка, не кашляй</li><li>00:18:16 State of JS</li><li>00:22:08 Утечка из опроса</li><li>00:27:12 Вариативные шрифты и Figma</li><li>00:35:37 CSS Tools</li><li>00:42:40 Топ CodePen</li><li>00:50:45 CSS-парсер на Rust</li><li>00:57:02 Eleventy 1.0</li><li>01:07:31 Metho?</li></ul><p><a href="https://codepen.io/miocene/full/ed97acb82ea44d93bf13a68371c74bbe">Обложка выпуска на чистом CSS</a></p><h2>События</h2><ul><li><a href="https://facebook.com/events/4783636631715537">Конференция по цифровой доступности онлайн 18 января—8 февраля</a></li><li><a href="https://kurmakinfo.timepad.ru/event/1899021/">18 января: Доступные фичи и где они обитают, Татьяна Фокина</a></li><li><a href="https://minskcss.timepad.ru/event/1881868/">MinskCSS Meetup онлайн 26 января</a></li></ul><h2>Firefox 96</h2><ul><li><a href="https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/96">Firefox 96</a></li><li><a href="https://tanalin.com/blog/2022/01/firefox-96/">Марат Таналин</a></li></ul><h2>Лисичка, не кашляй</h2><ul><li><a href="https://twitter.com/FirefoxSupport/status/1481592266141716482">Firefox has witnessed outages recently</a></li><li><a href="https://twitter.com/FirefoxSupport/status/1481918504203091969">Yesterday, Firefox became unresponsive</a></li></ul><h2>State of JS</h2><ul><li><a href="https://app.stateofjs.com/survey/state-of-js/2021">State of JS 2021</a></li></ul><h2>Утечка из опроса</h2><ul><li><a href="https://dev.to/sachagreif/disclosing-a-state-of-javascriptstate-of-css-data-breach-2lg1">Disclosing a State of JavaScript/State of CSS Data Leak</a></li></ul><h2>Вариативные шрифты и Figma</h2><ul><li><a href="https://twitter.com/nima_owji/status/1479815195979665411">Figma is adding the support of variable fonts!</a></li><li><a href="https://forum.figma.com/t/add-support-for-variable-fonts/325">Add Support for Variable Fonts</a></li></ul><h2>CSS Tools</h2><ul><li><a href="https://twitter.com/css_tools_/status/1481169865763397633">CSS Tools</a></li><li><a href="https://cssdb.org/">CSS DB</a></li><li><a href="https://preset-env.netlify.app">PostCSS Preset Env</a></li><li><a href="https://github.com/csstools/postcss-plugins/discussions/162">How we migrated postcss-preset-env to a mono repo</a></li></ul><h2>Топ CodePen</h2><ul><li><a href="https://codepen.io/2021/popular/pens/">Top-100 most hearted on CodePen 2021</a></li></ul><h2>CSS-парсер на Rust</h2><ul><li><a href="https://parceljs.org/blog/parcel-css/">Announcing Parcel CSS</a></li></ul><h2>Eleventy 1.0</h2><ul><li><a href="https://github.com/11ty/eleventy/releases/tag/v1.0.0">Eleventy v1.0.0</a></li></ul><h2>Metho?</h2><ul><li><a href="https://dev.to/jonrandy/introducing-metho-safely-adding-superpowers-to-js-1lj">Introducing Metho: Safely adding superpowers to JS</a></li></ul><p>Слушайте свежие эпизоды в <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8">Google Podcasts</a>, <a href="https://podcasts.apple.com/podcast/id1080500016">Apple Podcasts</a>, <a href="https://castbox.fm/channel/id1177814">CastBox</a>, <a href="https://pca.st/moFp">Pocket Casts</a>, <a href="https://overcast.fm/itunes1080500016">Overcast</a>, <a href="https://vk.com/podcasts-32017543">ВКонтакте</a>, <a href="https://music.yandex.ru/album/6245956">Яндекс.Музыке</a>, <a href="https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV">Spotify</a>, <a href="https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go">YouTube</a>, <a href="https://soundcloud.com/web-standards">SoundCloud</a> или подписывайтесь на <a href="https://web-standards.ru/podcast/feed/">RSS</a>.</p><p>Читайте новости в <a href="https://twitter.com/webstandards_ru">Твиттере</a>, <a href="https://vk.com/webstandards_ru">ВКонтакте</a>, <a href="https://www.facebook.com/webstandardsru">Фейсбуке</a>, <a href="https://t.me/webstandards_ru">Телеграме</a>.</p><p>Поддержите нас на <a href="https://www.patreon.com/webstandards_ru">Патреоне</a> или переводом на <a href="https://www.paypal.me/pepelsbey">PayPal</a>.</p><p><a href="https://t.me/webstandards_chat">Обсуждайте в чате</a>.</p>]]></itunes:summary>
+      <itunes:summary><![CDATA[Это очень короткое summary]></itunes:summary>
       <itunes:image href="https://web-standards.ru/podcast/cover.png"/>
     </item>
   </channel>

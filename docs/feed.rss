@@ -151,5 +151,39 @@
       <itunes:summary><![CDATA[Это очень короткое summary]]></itunes:summary>
       <itunes:image href="https://web-standards.ru/podcast/cover.png"/>
     </item>
+    <item>
+      <title>Выпуск без summary</title>
+      <pubDate>Tue, 17 Jan 2022 00:00:00 GMT</pubDate>
+      <description><![CDATA[<h2>Ведущие →</h2>
+<ul>
+    <li>Привет, Никита!</li>
+    <li>Андрей Мелихов</li>
+    <li>Юля Миоцен</li>
+    <li>Вадим Макеев</li>
+</ul>
+<h2>Темы</h2>
+<ul>
+    <li>00:01:04 События</li>
+    <li>00:02:35 Firefox 96</li>
+    <li>00:12:31 Лисичка, не кашляй</li>
+<li>00:18:16 State of JS</li>
+<li>00:22:08 Утечка из опроса</li>
+<li>00:27:12 Вариативные шрифты и Figma</li>
+<li>00:35:37 CSS Tools</li>
+<li>00:42:40 Топ CodePen</li>
+<li>00:50:45 CSS-парсер на Rust</li>
+<li>00:57:02 Eleventy 1.0</li>
+<li>01:07:31 Metho?</li>
+</ul>
+<a href="https://t.me/webstandards_chat">Обсуждайте в чате</a>.</p>]]>
+</description>
+      <guid isPermaLink="true">https://web-standards.ru/podcast/episodes/316.mp3</guid>
+      <enclosure type="audio/mpeg" url="https://web-standards.ru/podcast/episodes/316.mp3"/>
+      <itunes:episode>316</itunes:episode>
+      <itunes:duration>01:00:38</itunes:duration>
+      <itunes:author>Юля Миоцен, Вадим Макеев</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://web-standards.ru/podcast/cover.png"/>
+    </item>
   </channel>
 </rss>

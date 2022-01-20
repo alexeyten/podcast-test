@@ -44,7 +44,7 @@
       <itunes:duration>01:06:10</itunes:duration>
       <itunes:author>Никита Дубко, Андрей Мелихов, Юля Миоцен, Вадим Макеев</itunes:author>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:summary></itunes:summary>
+      <itunes:summary>&#32;</itunes:summary>
       <itunes:image href="https://web-standards.ru/podcast/cover.png"/>
     </item>
     <item>

@@ -49,7 +49,7 @@
       <itunes:image href="https://web-standards.ru/podcast/cover.png"/>
     </item>
     <item>
-      <title>Выпуск №315. sum in desc</title>
+      <title>Выпуск №315. only sub</title>
       <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
       <description><![CDATA[<summary><p>Как прошёл год: подкаст и другие проекты, фронтенд, JS, бэк и тулинг, один вопрос, чат и личное.</p></summary>
         <br />
@@ -62,6 +62,7 @@
       <itunes:duration>01:32:38</itunes:duration>
       <itunes:author>Андрей Мелихов, Вадим Макеев, Никита Дубко</itunes:author>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:subtitle>Как прошёл год: подкаст и другие проекты, фронтенд, JS, бэк и тулинг, один вопрос, чат и личное.</itunes:subtitle>
       <itunes:image href="https://web-standards.ru/podcast/cover.png"/>
     </item>
   </channel>

@@ -33,7 +33,7 @@
       <itunes:image href="https://web-standards.ru/podcast/cover.png"/>
     </item>
     <item>
-      <title>Выпуск №316. С nbsp в itunes:summary</title>
+      <title>Выпуск №316. С dot в itunes:summary</title>
       <!--title>316. Новинки Chrome 97 и DevTools, Faker.js и опенсорс, Crypto Mozilla, стандарт дизайн-токенов</title-->
       <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
       <description><![CDATA[<h2>Ведущие</h2> <ul><li>Никита Дубко</li> <li>Андрей Мелихов</li> <li>Юля Миоцен</li> <li>Вадим Макеев</li></ul>
@@ -44,13 +44,15 @@
       <itunes:duration>01:06:10</itunes:duration>
       <itunes:author>Никита Дубко, Андрей Мелихов, Юля Миоцен, Вадим Макеев</itunes:author>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:summary>&#160;</itunes:summary>
+      <itunes:summary>.</itunes:summary>
       <itunes:image href="https://web-standards.ru/podcast/cover.png"/>
     </item>
     <item>
-      <title>Выпуск №315. NO SUM</title>
+      <title>Выпуск №315. sum in desc</title>
       <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-      <description><![CDATA[<h2>Ведущие</h2> <ul><li>Андрей Мелихов</li> <li>Вадим Макеев</li> <li>Никита Дубко</li></ul>
+      <description><![CDATA[<summary>Как прошёл год: подкаст и другие проекты, фронтенд, JS, бэк и тулинг, один вопрос, чат и личное</summary>
+
+      <h2>Ведущие</h2> <ul><li>Андрей Мелихов</li> <li>Вадим Макеев</li> <li>Никита Дубко</li></ul>
           <h2>Темы</h2><ul><li>00:02:18 Подкаст</li><li>00:18:04 Проекты</li><li>00:31:30 Фронтенд</li><li>00:46:27 JavaScript</li><li>00:55:23 Бэк и тулинг</li><li>01:04:47 Вопрос</li><li>01:15:47 Личное</li></ul><h2>Подкаст</h2><ul><li><a href="https://youtu.be/t7Vrmaa57Oc">Смотрите этот эпизод на Ютубе</a></li><li><a href="https://www.youtube.com/playlist?list=PLMBnwIwFEFHcH-CaOP1lByMIGTByKaX4D">Все новогодние выпуски</a></li></ul><h2>Проекты</h2><ul><li><a href="https://t.me/webstandards_chat">Чат в Телеграме</a></li><li><a href="https://twitter.com/webstandards_en">Новости на английском</a></li><li><a href="https://github.com/web-standards-ru/calendar">Календарь</a></li><li><a href="https://github.com/web-standards-ru/dictionary">Словарь</a></li></ul><h2>Фронтенд</h2><ul><li><a href="https://web.dev/compat2021-holiday-update/">WebCompat</a></li></ul><h2>JavaScript</h2><ul><li><a href="https://deno.com/blog/the-deno-company">Announcing the Deno Company</a></li><li><a href="https://remix.run/blog/seed-funding-for-remix">Seed Funding for Remix</a></li><li><a href="https://turborepo.org/blog/joining-vercel">Turborepo is joining Vercel</a></li><li><a href="https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte">Vercel welcomes Rich Harris, creator of Svelte</a></li></ul><h2>Бэк и тулинг</h2><ul><li><a href="https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html">Introducing Zero-Bundle-Size React Server Components</a></li><li><a href="https://github.com/reactwg/react-18/discussions/37">New Suspense SSR Architecture in React 18</a></li><li><a href="https://nextjs.org/docs/advanced-features/react-18">React 18 Usage in Next.js</a></li><li><a href="https://remix.run/">Remix</a></li><li><a href="https://leerob.io/blog/rust">Rust is the future of JS infrastructure</a></li></ul><h2>Вопрос</h2><ul><li><a href="https://www.patreon.com/webstandards_ru">Патреон Веб-стандартов</a></li></ul><h2>Личное</h2><ul><li><a href="https://ameltrue.notion.site/2021-a608d70b29b84e05b994b43224d97bbb">Итоги года Андрея</a></li><li><a href="https://darkmefody.notion.site/2021-b5878e270cfd4e56a1d92154375a6b3f">Итоги годы Никиты</a></li><li><a href="https://mefody.dev/">Англоязычный блог Никиты</a></li></ul><p>Слушайте свежие эпизоды в <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8">Google Podcasts</a>, <a href="https://podcasts.apple.com/podcast/id1080500016">Apple Podcasts</a>, <a href="https://castbox.fm/channel/id1177814">CastBox</a>, <a href="https://pca.st/moFp">Pocket Casts</a>, <a href="https://overcast.fm/itunes1080500016">Overcast</a>, <a href="https://vk.com/podcasts-32017543">ВКонтакте</a>, <a href="https://music.yandex.ru/album/6245956">Яндекс.Музыке</a>, <a href="https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV">Spotify</a>, <a href="https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go">YouTube</a>, <a href="https://soundcloud.com/web-standards">SoundCloud</a> или подписывайтесь на <a href="https://web-standards.ru/podcast/feed/">RSS</a>.</p><p>Читайте новости в <a href="https://twitter.com/webstandards_ru">Твиттере</a>, <a href="https://vk.com/webstandards_ru">ВКонтакте</a>, <a href="https://www.facebook.com/webstandardsru">Фейсбуке</a>, <a href="https://t.me/webstandards_ru">Телеграме</a>.</p><p>Поддержите нас на <a href="https://www.patreon.com/webstandards_ru">Патреоне</a> или переводом на <a href="https://www.paypal.me/pepelsbey">PayPal</a>.</p><p><a href="https://t.me/webstandards_chat">Обсуждайте в чате</a>.</p>]]></description>
       <guid isPermaLink="true">https://web-standards.ru/podcast/episodes/315.mp3</guid>
       <enclosure type="audio/mpeg" url="https://web-standards.ru/podcast/episodes/315.mp3" length="44485715"/>

@@ -56,8 +56,8 @@
       <itunes:duration>01:32:38</itunes:duration>
       <itunes:author>Андрей Мелихов, Вадим Макеев, Никита Дубко</itunes:author>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>Ведущие: Андрей Мелихов, Вадим Макеев и Никита Дубко.</itunes:summary>
       <!--itunes:summary>Как прошёл год: подкаст и другие проекты, фронтенд, JS, бэк и тулинг, один вопрос, чат и личное.</itunes:summary-->
-      <itunes:summary>&#x200b;</itunes:summary>
       <itunes:image href="https://web-standards.ru/podcast/cover.png"/>
     </item>
   </channel>
